@@ -1,4 +1,4 @@
-# pics
+# random-image-viewer
 
 A new Flutter project.
 
